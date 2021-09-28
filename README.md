@@ -4,7 +4,6 @@ This repo includes some examples on how to deploy models in SQL Server.
 
 ## Examples
 * [Iris](example_iris): Simple linear regression on R iris dataset.
-* [CBE Re-Enrollment](example_cbe_reenrollment): Replica of CBE Re-Enrollment model in PROD.
 
 
 ## Further reading and more examples
