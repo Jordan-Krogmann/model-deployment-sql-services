@@ -3,7 +3,7 @@
 This repo includes some examples on how to deploy models in SQL Server.
 
 ## Examples
-* [Iris](example_iris): Simple linear regression on R iris dataset.
+* [Iris](https://github.com/Jordan-Krogmann/model-deployment_sql-services/blob/master/data/iris.csv): Simple linear regression on R iris dataset.
 
 
 ## Further reading and more examples
